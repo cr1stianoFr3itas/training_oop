@@ -1,3 +1,12 @@
+/*
+   Dev. Cristiano Freitas
+   email: junior.brown.eda@gmail.com
+   Data de inicio do projeto: 19/06/2021
+   Data de "Final" do projeto: 19/06/2021
+   
+
+*/
+
 package date;
 
 import java.util.Date;
